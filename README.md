@@ -32,8 +32,7 @@
 
 | Предметы / Интерфейс | Достижения |
 | :---: | :---: |
-| ![Скриншот 1](<img width="819" height="450" alt="scrn1" src="https://github.com/user-attachments/assets/080fb90c-a76a-410d-9f0e-5740c3b5fca7" />) | ![Скриншот 2](<img width="643" height="446" alt="scrn2" src="https://github.com/user-attachments/assets/1d661099-877c-4b4f-b94b-c81da7c0bf45" />
-) |
+| !(<img width="819" height="450" alt="scrn1" src="https://github.com/user-attachments/assets/080fb90c-a76a-410d-9f0e-5740c3b5fca7" />) | !(<img width="643" height="446" alt="scrn2" src="https://github.com/user-attachments/assets/1d661099-877c-4b4f-b94b-c81da7c0bf45" />) |
 
 ---
 
