@@ -21,7 +21,7 @@
 
 1. Скачайте архив датапака со страницы **[Releases (Релизы)](https://github.com/decoori/Matcha-Flavoured-RU-Translation/releases)**.
 2. Зайдите в Minecraft и создайте мир
-3. Зайдите в .minecraft\saves\[название мира] и загрузите архив в эту папку
+3. Зайдите в .minecraft\saves\(название мира) и загрузите архив в эту папку
 3. Зайдите в .minecraft\resourcepacks и загрузите архив в эту папку
 6. Перезагрузите мир или введите команду `/reload` в игре.
 
