@@ -1,4 +1,4 @@
-# Kleispack — Полный русский перевод
+# Matcha Flavoured — Полный русский перевод
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.5%2B%20%2F%201.21%2B-brightgreen?logo=minecraft)
 ![Language](https://img.shields.io/badge/Language-Russian%20%2F%20English-blue)
