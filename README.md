@@ -1,12 +1,12 @@
 # 🍵 Matcha Flavoured — Полный перевод на русский язык
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.x-green?style=for-the-badge&logo=minecraft)
-![Language](https://img.shields.io/badge/Язык-Русский-blue?style=for-the-badge)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-26.2-green?style=for-the-badge&logo=minecraft)
+![Language](https://img.shields.io/badge/Язык-Русский/English-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Статус-Завершено-brightgreen?style=for-the-badge)
 
-Неофициальный полный перевод датапака **[Matcha Flavoured](ссылка_на_оригинальный_датапак)** на русский язык.
+Неофициальный полный перевод датапака **[Matcha Flavoured]([ссылка_на_оригинальный_датапак](https://matchaflavored.org))** на русский язык.
 
-> ⚠️ **Важно:** Этот репозиторий содержит переведенную версию датапака. Все права на оригинальный код, идеи и механики принадлежат автору [Имя_Автора_Оригинала].
+> ⚠️ **Важно:** Этот репозиторий содержит переведенную версию датапака. Все права на оригинальный код, идеи и механики принадлежат автору: klei_wright.
 
 ---
 
