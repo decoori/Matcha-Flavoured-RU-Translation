@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Язык-Русский/English-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Статус-Завершено-brightgreen?style=for-the-badge)
 
-Неофициальный полный перевод датапака **[Matcha Flavoured]([https://matchaflavored.org])** на русский язык.
+Неофициальный полный перевод датапака **[Matcha Flavoured](https://matchaflavored.org)** на русский язык.
 
 > ⚠️ **Важно:** Этот репозиторий содержит переведенную версию датапака. Все права на оригинальный код, идеи и механики принадлежат автору: **klei_wright**.
 
@@ -19,7 +19,7 @@
 
 ## 📥 Установка
 
-1. Скачайте архив датапака со страницы **[Releases (Релизы)]([https://github.com/твой-ник/твой-репозиторий/releases](https://github.com/decoori/Matcha-Flavoured-RU-Translation/releases))**.
+1. Скачайте архив датапака со страницы **[Releases (Релизы)](https://github.com/decoori/Matcha-Flavoured-RU-Translation/releases)**.
 2. Откройте Minecraft и выберите нужный мир.
 3. Нажмите **Редактировать (Edit)** -> **Открыть папку мира (Open World Folder)**.
 4. Перейдите в папку `datapacks`.
@@ -33,7 +33,7 @@
 
 | Предметы / Интерфейс | Достижения |
 | :---: | :---: |
-| ![Скриншот 1](ссылка_на_картинку_1) | ![Скриншот 2](ссылка_на_картинку_2) |
+| ![Скриншот 1](https://prnt.sc/iP15BXH78omK) | ![Скриншот 2](https://prnt.sc/iP15BXH78omK) |
 
 ---
 
