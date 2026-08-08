@@ -19,7 +19,7 @@
 
 ## 📥 Установка
 
-1. Скачайте архив датапака со страницы **[Releases (Релизы)](https://github.com/decoori/Matcha-Flavoured-RU-Translation/releases)**.
+1. Скачайте архив датапака (Matcha_Flavoured_RUS_1_03.zip) со страницы **[Releases (Релизы)](https://github.com/decoori/Matcha-Flavoured-RU-Translation/releases)**.
 2. Зайдите в Minecraft и создайте мир
 3. Зайдите в .minecraft\saves\\"название мира" и загрузите архив в эту папку
 3. Зайдите в .minecraft\resourcepacks и загрузите архив в эту папку
