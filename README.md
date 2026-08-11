@@ -49,7 +49,7 @@
 ---
 
 ## 👨‍💻 Авторы и благодарности
-* **klei_wright** — Создатель оригинального датапака [Matcha Flavoured](https://matchaflavored.org).
+* **klei_wright** — Создатель оригинального датапака [Matcha Flavoured](https://modrinth.com/datapack/matcha-flavoured).
 * **decoori** — Перевод на русский язык.
 
 ## 📄 Лицензия
